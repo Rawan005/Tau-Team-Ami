@@ -38,5 +38,8 @@ echo "deb https://baltocdn.com/helm/stable/debian/ all main" | sudo tee /etc/apt
 
 git clone https://github.com/Rawan005/Tau-Team-k8s-jenkins
 git clone https://github.com/Rawan005/Tau-Team-Level2Project
+git clone https://github.com/Rawan005/pro-graf
+git clone https://github.com/Rawan005/Elf
+
 
 echo "done"

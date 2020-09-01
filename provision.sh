@@ -37,6 +37,6 @@ EOF
 echo "deb https://baltocdn.com/helm/stable/debian/ all main" | sudo tee /etc/apt/sources.list.d/helm-stable-debian.list
 
 git clone https://github.com/Rawan005/Tau-Team-k8s-jenkins
-git clone https://github.com/Rawan005/Tau-Team-Level2Project-
+git clone https://github.com/Rawan005/Tau-Team-Level2Project
 
 echo "done"
